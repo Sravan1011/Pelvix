@@ -18,7 +18,7 @@ Your digital best friend powered by AI. A modern, full-stack chatbot with person
 
 ```bash
 # Clone the repository
-git clone <your-repo-url>
+git clone https://github.com/kedar49/Pelvix
 cd PelVix
 
 # Install dependencies
