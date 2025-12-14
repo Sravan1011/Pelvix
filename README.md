@@ -18,7 +18,7 @@ Your digital best friend powered by AI. A modern, full-stack chatbot with person
 
 ```bash
 # Clone the repository
-git clone https://github.com/kedar49/Pelvix
+git clone https://github.com/Sravan1011/Pelvix
 cd PelVix
 
 # Install dependencies
@@ -137,9 +137,6 @@ The app works out of the box with no environment variables required. All AI serv
 
 This project is open source and available under the [MIT License](LICENSE).
 
-## 👨‍💻 Credits
-
-**Created by [Kedar Sathe](https://wtfkedar.vercel.app)**
 
 **Powered by:**
 - [Pollinations AI](https://pollinations.ai) - Free AI platform for text and images
@@ -150,8 +147,7 @@ This project is open source and available under the [MIT License](LICENSE).
 ## 🔗 Links
 
 - **Live Demo**: [https://pelvix.vercel.app](https://pelvix.vercel.app)
-- **Developer**: [https://wtfkedar.vercel.app](https://wtfkedar.vercel.app)
-- **Technical Report**: See [TECHNICAL_REPORT.md](./TECHNICAL_REPORT.md)
+
 
 ---
 
